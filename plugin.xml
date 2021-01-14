@@ -7,15 +7,15 @@ xmlns:android="http://schemas.android.com/apk/res/android"
     <description>Cordova plugin for Firebase In-App Messaging</description>
     <license>MIT</license>
     <keywords>cordova</keywords>
-    <repo>https://github.com/chemerisuk/cordova-plugin-firebase-inappmessaging</repo>
-    <issue>https://github.com/chemerisuk/cordova-plugin-firebase-inappmessaging/issues</issue>
+    <repo>https://github.com/owbewest/cordova-plugin-firebase-inappmessaging</repo>
+    <issue>https://github.com/owbewest/cordova-plugin-firebase-inappmessaging/issues</issue>
 
     <dependency id="cordova-plugin-firebase-analytics" version="~5.0.0"/>
 
     <engines>
         <engine name="cordova" version=">=9.0.0"/>
         <engine name="cordova-android" version=">=9.0.0"/>
-        <engine name="cordova-ios" version=">=6.0.0"/>
+        <engine name="cordova-ios" version=">=9.0.0"/>
     </engines>
 
     <platform name="ios">
