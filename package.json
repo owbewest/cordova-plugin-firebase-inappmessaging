@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chemerisuk/cordova-plugin-firebase-inappmessaging.git"
+    "url": "git+https://github.com/owbewest/cordova-plugin-firebase-inappmessaging.git"
   },
   "author": "Maksim Chemerisuk <chemerisuk@gmail.com> (https://github.com/chemerisuk)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chemerisuk/cordova-plugin-firebase-inappmessaging/issues"
+    "url": "https://github.com/owbewest/cordova-plugin-firebase-inappmessaging/issues"
   },
-  "homepage": "https://github.com/chemerisuk/cordova-plugin-firebase-inappmessaging#readme",
-  "funding": "https://github.com/chemerisuk/cordova-plugin-firebase-inappmessaging?sponsor=1",
+  "homepage": "https://github.com/owbewest/cordova-plugin-firebase-inappmessaging#readme",
+  "funding": "https://github.com/owbewest/cordova-plugin-firebase-inappmessaging?sponsor=1",
   "keywords": [
     "cordova",
     "firebase",
